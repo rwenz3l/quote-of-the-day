@@ -422,3 +422,15 @@ Random quotes I heard/read in my life, which I found worth keeping.
 > 
 > https://japanese.stackexchange.com/questions/18973/question-about-supposedly-a-japanese-proverb  
 > (This is not a japanese proverb, but it lead me to 3 gpg keys)
+
+
+> The best way to get the right answer on the internet is not to ask a question; it's to post the wrong answer.
+>
+> Cunningham's Law
+
+
+> The best documentation is the implementation.  
+> The second best documentation is any documentation at all.  
+> The better you reveal your implementation, the better your documentation.  
+>
+> HN\users::csours
