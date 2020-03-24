@@ -414,3 +414,11 @@ Random quotes I heard/read in my life, which I found worth keeping.
 > Freeman Dyson
 
 
+
+> The Japanese say you have three faces.
+> The first face, you show to the world.
+> The second face, you show to your close friends, and your family.
+> The third face, you never show anyone. It is the truest reflection of who you are.
+> 
+> https://japanese.stackexchange.com/questions/18973/question-about-supposedly-a-japanese-proverb  
+> (This is not a japanese proverb, but it lead me to 3 gpg keys)
