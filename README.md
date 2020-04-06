@@ -434,3 +434,8 @@ Random quotes I heard/read in my life, which I found worth keeping.
 > The better you reveal your implementation, the better your documentation.  
 >
 > HN\users::csours
+
+
+> If you are no longer interested in a project you started, maybe you already got what you came for
+> 
+> Barbare Sher, Refuse to Choose
