@@ -439,3 +439,8 @@ Random quotes I heard/read in my life, which I found worth keeping.
 > If you are no longer interested in a project you started, maybe you already got what you came for
 > 
 > Barbare Sher, Refuse to Choose
+
+
+> Fahrweise ist keine Ladungssicherung
+> 
+> Ein reddit kommentar von u/r0ckarong beim video von leuten die ihre holzlieferung gelinde gesagt bescheiden transportieren.
