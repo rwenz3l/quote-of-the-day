@@ -444,3 +444,9 @@ Random quotes I heard/read in my life, which I found worth keeping.
 > Fahrweise ist keine Ladungssicherung
 > 
 > Ein reddit kommentar von u/r0ckarong beim video von leuten die ihre holzlieferung gelinde gesagt bescheiden transportieren.
+
+> Life should not be a journey to the grave with the intention of arriving safely in a pretty and well preserved body,
+> but rather to skid in broadside in a cloud of smoke, thoroughly used up, totally worn out, and loudly proclaiming
+> "Wow! What a Ride!”
+>
+> Hunter S. Thompson, The Proud Highway
