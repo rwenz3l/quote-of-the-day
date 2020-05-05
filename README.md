@@ -450,3 +450,8 @@ Random quotes I heard/read in my life, which I found worth keeping.
 > "Wow! What a Ride!”
 >
 > Hunter S. Thompson, The Proud Highway
+
+
+> When you find a lone nut doing something great, have the guts to be the first person to stand up and join in.
+>
+> Derek Sivers, First Follower (https://sivers.org/ff)
