@@ -455,3 +455,7 @@ Random quotes I heard/read in my life, which I found worth keeping.
 > When you find a lone nut doing something great, have the guts to be the first person to stand up and join in.
 >
 > Derek Sivers, First Follower (https://sivers.org/ff)
+
+> I think the next best thing to solving a problem is finding some humor in it.
+>
+> Frank A. Clark
