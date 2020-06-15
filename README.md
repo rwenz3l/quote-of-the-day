@@ -459,3 +459,19 @@ Random quotes I heard/read in my life, which I found worth keeping.
 > I think the next best thing to solving a problem is finding some humor in it.
 >
 > Frank A. Clark
+
+> "Everybody has a plan until they get hit in the face."
+>
+> Mike Tyson
+
+> *He's only **mostly** dead*.
+>
+> (From the Movie "Princess Bride")
+
+> KEEP NOTES. Write everything down. Write down what you were thinking about, how you felt about decisions, things you tried for bug fixes. you never know when this stuff will be useful to you again.
+>
+> hn u/chadlavi
+
+> Accept that perfection doesn't exist. Your relationships will have problems, your car will break down, someone else will anyways have a better phone, a newer car, or a bigger house than you, no matter where on the social ladder you stand. Constantly chasing perfection will keep you permanently stressed. That doesn't mean you should not try to better your life, just know that if you expect perfection you will never be statisfied. 
+> 
+> reddit u/denaris21
