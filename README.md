@@ -475,3 +475,7 @@ Random quotes I heard/read in my life, which I found worth keeping.
 > Accept that perfection doesn't exist. Your relationships will have problems, your car will break down, someone else will anyways have a better phone, a newer car, or a bigger house than you, no matter where on the social ladder you stand. Constantly chasing perfection will keep you permanently stressed. That doesn't mean you should not try to better your life, just know that if you expect perfection you will never be statisfied. 
 > 
 > reddit u/denaris21
+
+> From the people who brought you 'Doing That' and 'Not Doing That': 'Making your own decisions based on the situation.'.. GOD you guys are f...in idiots.
+>
+> The Cyanide and Happines Show S01E04 (Cold Opening Sketch)
