@@ -479,3 +479,5 @@ Random quotes I heard/read in my life, which I found worth keeping.
 > From the people who brought you 'Doing That' and 'Not Doing That': 'Making your own decisions based on the situation.'.. GOD you guys are f...in idiots.
 >
 > [The Cyanide and Happines Show S01E04 Cold Opening Sketch](https://www.youtube.com/watch?v=2m4a-bl4alo)
+
+> "If all you wanted was money you could just rob a bank." 
