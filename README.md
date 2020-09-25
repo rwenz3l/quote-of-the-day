@@ -481,3 +481,17 @@ Random quotes I heard/read in my life, which I found worth keeping.
 > [The Cyanide and Happines Show S01E04 Cold Opening Sketch](https://www.youtube.com/watch?v=2m4a-bl4alo)
 
 > "If all you wanted was money you could just rob a bank." 
+
+> Bane's rule, you don't understand a distributed computing problem until you can get it to fit on a single machine first.
+> hn u/bane
+
+> The reason I put stateless code as the highest priority is it's the easiest to reason about. Stateless logic functions the same whether run normally, in parallel or distributed. It's the easiest to test, since it requires very little setup code. And it's the easiest to scale up, since you just run another copy of it. Once you introduce state, your life gets significantly harder.
+> hn u/curun1r
+
+> you may not be extraordinary in any one field, but it isn't too hard to achieve extraordinary things due to a combination of skills in multiple fields if you work at it.
+
+> I think back on the deadline death marches and jumping on grenades to get projects back on schedule ... and every one of those deadlines was a sham. The products I sacrificed so much for were in the discount bin a year later.
+
+> I am not afraid of death, but I am afraid of the years of infirmity which often precedes it. I'm afraid of living the end of my life without my wife, but even more afraid of leaving her to finish life alone.
+
+> "You ever send a text that's so risky, you clean your entire house?"
