@@ -495,3 +495,5 @@ Random quotes I heard/read in my life, which I found worth keeping.
 > I am not afraid of death, but I am afraid of the years of infirmity which often precedes it. I'm afraid of living the end of my life without my wife, but even more afraid of leaving her to finish life alone.
 
 > "You ever send a text that's so risky, you clean your entire house?"
+
+> I'm not a lawyer, but recently I did watch the movie Legally Blond.. <legal advice here>.
