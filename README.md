@@ -497,3 +497,7 @@ Random quotes I heard/read in my life, which I found worth keeping.
 > "You ever send a text that's so risky, you clean your entire house?"
 
 > I'm not a lawyer, but recently I did watch the movie Legally Blond.. <legal advice here>.
+
+  
+> You rarely, if ever, need Leetcode. What you need is to understand deeply what you should be building so you don’t waste everyone’s time! 
+> hn u/mountainriver
