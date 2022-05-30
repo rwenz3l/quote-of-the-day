@@ -504,3 +504,6 @@ Random quotes I heard/read in my life, which I found worth keeping.
   
 > “I think it’s really important for a writer to have a compost heap. Everything you read, things that you write, things that you listen to, people you encounter — they can all go on the compost heap, and they will rot down, and out of them grow beautiful stories.”
 > -Neil Gaiman
+
+  
+> "Simplicity lasts longer."
