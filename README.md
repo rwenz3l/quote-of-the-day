@@ -507,3 +507,7 @@ Random quotes I heard/read in my life, which I found worth keeping.
 
   
 > "Simplicity lasts longer."
+
+
+> "It's important not to hoard, but there's tremendous value in finding and maintaining quality."
+> - hn/ckz
