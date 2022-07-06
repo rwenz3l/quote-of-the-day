@@ -511,3 +511,6 @@ Random quotes I heard/read in my life, which I found worth keeping.
 
 > "It's important not to hoard, but there's tremendous value in finding and maintaining quality."
 > - hn/ckz
+
+> Anyone reading [this] should know that all of the bickering over the speed of commands is largely a waste of time. Spend your time writing readable code that is closest to O(1) to O(n) as possible and not bean count the commands themselves. I've had coworkers fight about such nonsense while ironically writing code that needlessly ran in exponential time. 
+> - stackoverflow.com/users/1618630
