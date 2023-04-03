@@ -26,51 +26,51 @@ Random quotes I heard/read in my life, which I found worth keeping.
 
 > Lifecycle is everything.
 >
-> (Coworker of mine.)
+> _Coworker_
 
 
 
 > In general, Developers are not 'funny' people.
 >
-> (Coworker)
+> _Coworker_
 
 
 
 > Read the Fucking Manual.
 >
-> (Every Senior Developer, Ever)
+> _Every Senior Developer, Ever_
 
 
 
 > If you're using "cat" with only one argument, you're doing something wrong.
 >
-> (StackOverflow Comment)
-
-→ Note: You should use `more` or `head`, since it is non-destructive
+> _StackOverflow Comment_
+>
+> → Note: You should use `more` or `head`, since it is non-destructive
 
 
 
 > "Design systems not to collect personal information, and to allow anonymous use."
 >
-> (Stallman)
+> _(Stallman)_
 
 
 
 > I like offending people, because I think people who get offended should be offended.
 >
-> (Linus Torvalds)
+> _(Linus Torvalds)_
 
 
 
 > Spend half your time learning many things shallowly and half your time learning a few things deeply -- your resourcefulness will know no bound.
 >
-> (HN User)
+> _(HN User)_
 
 
 
 > The Internet used to be something you had to reach out to, with a dial-up connection, in order to connect to it. Now the Internet is in our pockets, follows us everywhere and nags us with nonstopping alerts.
 >
-> (HN User)
+> _(HN User)_
 
 
 
@@ -299,13 +299,13 @@ Random quotes I heard/read in my life, which I found worth keeping.
 > a way that it's hard for a beginner to even know what sections he's 
 > supposed to be able to understand.
 >
-> https://news.ycombinator.com/item?id=20587517
+> _https://news.ycombinator.com/item?id=20587517_
 
 
 
 > I once pulled Chewbacca out of the bathroom sink.
 >
-> https://www.reddit.com/r/AskReddit/comments/ckonhz/couples_who_have_moved_in_together_what_surprised/evpp5c9/
+> _https://www.reddit.com/r/AskReddit/comments/ckonhz/couples_who_have_moved_in_together_what_surprised/evpp5c9/_
 
 
 
@@ -319,7 +319,7 @@ Random quotes I heard/read in my life, which I found worth keeping.
 
 > One of the more disappointing developments in the programming world over the past 10 years or so is that it has become annoyingly 'fashion' oriented, with people following trends and bandwagons as if they were this season's shoes. Don't fall into that trap
 >
-> https://softwareengineering.stackexchange.com/a/162519
+> _https://softwareengineering.stackexchange.com/a/162519_
 
 
 
@@ -347,7 +347,7 @@ Random quotes I heard/read in my life, which I found worth keeping.
 
 > If it looks like a duck, swims like a duck, and quacks like a duck, then it probably is a duck.
 >
-> (The Duck Test)
+> _(The Duck Test)_
 
 
 
@@ -361,7 +361,7 @@ Random quotes I heard/read in my life, which I found worth keeping.
 
 > You know what the problem is with everybody? They all just want to hear what they already believe.
 >
-> (BoJack Horseman)
+> _(BoJack Horseman)_
 
 
 
@@ -385,7 +385,9 @@ Random quotes I heard/read in my life, which I found worth keeping.
 
 
 
-> This is not RGBA! This is RGB Shit. (GF)
+> This is not RGBA! This is RGB Shit.
+>
+> _(GF)_
 
 
 
@@ -395,7 +397,7 @@ Random quotes I heard/read in my life, which I found worth keeping.
 
 > Sometimes it's just about loving your PC [and putting it to use rather than throwing it out.]
 >
-> (reddit u/Dr_Cin, on the use of outdated hardware for a homelab)
+> (_reddit/Dr_Cin_, on the use of outdated hardware for a homelab)
 
 
 
@@ -405,13 +407,13 @@ Random quotes I heard/read in my life, which I found worth keeping.
 
 > Here’s a secret- no one likes your best behavior. Be real.
 >
-> Steve Corona on running naked at 1am.
+> _Steve Corona on running naked at 1am._
 
 
 
 > *A good scientist is a person with original ideas. A good engineer is a person who makes a design that works with  as few original ideas as possible. There are no prima donnas in engineering.*
 >
-> Freeman Dyson
+> _Freeman Dyson_
 
 
 
@@ -420,61 +422,61 @@ Random quotes I heard/read in my life, which I found worth keeping.
 > The second face, you show to your close friends, and your family.
 > The third face, you never show anyone. It is the truest reflection of who you are.
 > 
-> https://japanese.stackexchange.com/questions/18973/question-about-supposedly-a-japanese-proverb  
+> _https://japanese.stackexchange.com/questions/18973/question-about-supposedly-a-japanese-proverb_
 > (This is not a japanese proverb, but it lead me to 3 gpg keys)
 
 
 > The best way to get the right answer on the internet is not to ask a question; it's to post the wrong answer.
 >
-> Cunningham's Law
+> _Cunningham's Law_
 
 
 > The best documentation is the implementation.  
 > The second best documentation is any documentation at all.  
 > The better you reveal your implementation, the better your documentation.  
 >
-> HN\users::csours
+> _hn/csours_
 
 
 > If you are no longer interested in a project you started, maybe you already got what you came for
 > 
-> Barbare Sher, Refuse to Choose
+> _Barbare Sher, Refuse to Choose_
 
 
 > Fahrweise ist keine Ladungssicherung
 > 
-> Ein reddit kommentar von u/r0ckarong beim video von leuten die ihre holzlieferung gelinde gesagt bescheiden transportieren.
+> Ein reddit kommentar von _u/r0ckarong_ beim video von leuten die ihre holzlieferung gelinde gesagt bescheiden transportieren.
 
 > Life should not be a journey to the grave with the intention of arriving safely in a pretty and well preserved body,
 > but rather to skid in broadside in a cloud of smoke, thoroughly used up, totally worn out, and loudly proclaiming
 > "Wow! What a Ride!”
 >
-> Hunter S. Thompson, The Proud Highway
+> _Hunter S. Thompson, The Proud Highway_
 
 
 > When you find a lone nut doing something great, have the guts to be the first person to stand up and join in.
 >
-> Derek Sivers, First Follower (https://sivers.org/ff)
+> _Derek Sivers, First Follower (https://sivers.org/ff)_
 
 > I think the next best thing to solving a problem is finding some humor in it.
 >
-> Frank A. Clark
+> _Frank A. Clark_
 
 > "Everybody has a plan until they get hit in the face."
 >
-> Mike Tyson
+> _Mike Tyson_
 
 > *He's only **mostly** dead*.
 >
-> (From the Movie "Princess Bride")
+> _(From the Movie "Princess Bride")_
 
 > KEEP NOTES. Write everything down. Write down what you were thinking about, how you felt about decisions, things you tried for bug fixes. you never know when this stuff will be useful to you again.
 >
-> hn u/chadlavi
+> _hn/chadlavi_
 
 > Accept that perfection doesn't exist. Your relationships will have problems, your car will break down, someone else will anyways have a better phone, a newer car, or a bigger house than you, no matter where on the social ladder you stand. Constantly chasing perfection will keep you permanently stressed. That doesn't mean you should not try to better your life, just know that if you expect perfection you will never be statisfied. 
 > 
-> reddit u/denaris21
+> _reddit/denaris21_
 
 > From the people who brought you 'Doing That' and 'Not Doing That': 'Making your own decisions based on the situation.'.. GOD you guys are f...in idiots.
 >
@@ -483,34 +485,49 @@ Random quotes I heard/read in my life, which I found worth keeping.
 > "If all you wanted was money you could just rob a bank." 
 
 > Bane's rule, you don't understand a distributed computing problem until you can get it to fit on a single machine first.
-> hn u/bane
+>
+> _hn/bane_
 
 > The reason I put stateless code as the highest priority is it's the easiest to reason about. Stateless logic functions the same whether run normally, in parallel or distributed. It's the easiest to test, since it requires very little setup code. And it's the easiest to scale up, since you just run another copy of it. Once you introduce state, your life gets significantly harder.
-> hn u/curun1r
+>
+> _hn/curun1r_
+
 
 > you may not be extraordinary in any one field, but it isn't too hard to achieve extraordinary things due to a combination of skills in multiple fields if you work at it.
 
+
 > I think back on the deadline death marches and jumping on grenades to get projects back on schedule ... and every one of those deadlines was a sham. The products I sacrificed so much for were in the discount bin a year later.
+
 
 > I am not afraid of death, but I am afraid of the years of infirmity which often precedes it. I'm afraid of living the end of my life without my wife, but even more afraid of leaving her to finish life alone.
 
+
 > "You ever send a text that's so risky, you clean your entire house?"
+
 
 > I'm not a lawyer, but recently I did watch the movie Legally Blond.. <legal advice here>.
 
   
 > You rarely, if ever, need Leetcode. What you need is to understand deeply what you should be building so you don’t waste everyone’s time! 
-> hn u/mountainriver
+>
+> _hn/mountainriver_
   
 > “I think it’s really important for a writer to have a compost heap. Everything you read, things that you write, things that you listen to, people you encounter — they can all go on the compost heap, and they will rot down, and out of them grow beautiful stories.”
-> -Neil Gaiman
+>
+> _Neil Gaiman_
 
   
 > "Simplicity lasts longer."
 
 
 > "It's important not to hoard, but there's tremendous value in finding and maintaining quality."
-> - hn/ckz
+>
+> _hn/ckz_
 
 > Anyone reading [this] should know that all of the bickering over the speed of commands is largely a waste of time. Spend your time writing readable code that is closest to O(1) to O(n) as possible and not bean count the commands themselves. I've had coworkers fight about such nonsense while ironically writing code that needlessly ran in exponential time. 
-> - stackoverflow.com/users/1618630
+>
+> _stackoverflow.com/users/1618630_
+
+> Use the fancy stuff, everyday!
+>
+> _yt/rajiv_
