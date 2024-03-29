@@ -531,3 +531,7 @@ Random quotes I heard/read in my life, which I found worth keeping.
 > Use the fancy stuff, everyday!
 >
 > _yt/rajiv_
+
+>  You say the whole world's ending. Honey, it already did.
+>
+> _bo burnham - all eyes on me_
