@@ -535,3 +535,7 @@ Random quotes I heard/read in my life, which I found worth keeping.
 >  You say the whole world's ending. Honey, it already did.
 >
 > _bo burnham - all eyes on me_
+
+> You've met with a terrible fait, haven't you?
+>
+> Happy Mask Salesman, TLOZ - Majoras Mask (2000)
